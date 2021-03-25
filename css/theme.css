@@ -1075,6 +1075,9 @@ text-align: center;
 	text-align: center;
 }
 /* Circle */
+.box-icon{
+	padding: 18px;
+}
 .box-icon .circle {
 	-webkit-border-radius: 60px;
 	-moz-border-radius: 60px;
@@ -2182,6 +2185,6 @@ border: 1px solid;
 		background-image: url(../images/cover.jpg);
 	}
    }
-   .fa{
+ .circle  .fa{
 	   font-size: 22px !important;
    }
