@@ -950,7 +950,7 @@ footer a{
 }
 /* Room Thumbnails */
 .room-thumb {
-	width: 456px;
+	width: 556px;
 	height: 283px;
 	float: left;
 	overflow: hidden;
@@ -964,7 +964,7 @@ display: block;
 text-align: center;
 }
 .room-thumb .mask {
-	width: 456px;
+	width: 556px;
 	height: 381px;
 	position: absolute;
 	overflow: hidden;
